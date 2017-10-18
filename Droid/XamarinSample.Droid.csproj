@@ -159,7 +159,6 @@
     <None Include="Properties\AndroidManifest.xml" />
     <None Include="Resources\AboutResources.txt" />
     <None Include="packages.config" />
-    <None Include="apikey.xml" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -179,6 +178,7 @@
     <AndroidResource Include="Resources\drawable\brandPoweredby.png" />
     <AndroidResource Include="Resources\drawable\NearIT.png" />
     <AndroidResource Include="Resources\drawable\ic_launcher.png" />
+    <AndroidResource Include="Resources\values\apikey.xml" />
   </ItemGroup>
   <ItemGroup>
     <GoogleServicesJson Include="google-services.json" />
