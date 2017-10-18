@@ -1,6 +1,6 @@
 # XamarinSample
 
-To compile this sample follow this instruction.
+To run the sample follow this instruction.
 
 **iOS**
 <br>
@@ -9,4 +9,4 @@ Create a *Keys.plist* file where you put you API Key. Then **Right-Click** on it
 **Android**
 <br>
 Create your *google-services.json* (follow the doc).<br>
-Create your string for the API Key in the *AndroidManifest.xml*.
+Add the API Key string as a resource in your *strings.xml*
